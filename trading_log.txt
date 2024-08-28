@@ -1,0 +1,773 @@
+2024-08-28 19:02:50,585 - INFO - Placing orders for 28-08-2024 06:45 PM at 19:02:50.585505
+2024-08-28 19:02:50,585 - INFO - Checking positions and placing orders at 19:02:50.585505
+2024-08-28 19:02:50,592 - INFO - Extracted stock list: []
+2024-08-28 19:02:50,592 - INFO - No stocks found for the given time. Clearing previous stock lists.
+2024-08-28 19:02:50,592 - INFO - place_orders function completed.
+2024-08-28 19:02:50,630 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:50,630 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:02:50,630 - INFO - Checking positions and placing orders at 19:02:50.630851
+2024-08-28 19:02:50,675 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:50,675 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:02:50,675 - INFO - Checking positions and placing orders at 19:02:50.675382
+2024-08-28 19:02:50,718 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:50,718 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:02:50,718 - INFO - Checking positions and placing orders at 19:02:50.718157
+2024-08-28 19:02:50,762 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:50,762 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:02:50,762 - INFO - Checking positions and placing orders at 19:02:50.762210
+2024-08-28 19:02:50,808 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:50,808 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:02:50,808 - INFO - Checking positions and placing orders at 19:02:50.808629
+2024-08-28 19:02:50,851 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:50,851 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:02:50,851 - INFO - Checking positions and placing orders at 19:02:50.851356
+2024-08-28 19:02:50,898 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:50,898 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:02:50,898 - INFO - Checking positions and placing orders at 19:02:50.898542
+2024-08-28 19:02:50,940 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:50,941 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:02:50,941 - INFO - Checking positions and placing orders at 19:02:50.941722
+2024-08-28 19:02:50,983 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:50,983 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:02:50,983 - INFO - Checking positions and placing orders at 19:02:50.983769
+2024-08-28 19:02:51,027 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:51,027 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:02:51,028 - INFO - Checking positions and placing orders at 19:02:51.027864
+2024-08-28 19:02:51,073 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:51,073 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:02:55,075 - INFO - Checking positions and placing orders at 19:02:55.075076
+2024-08-28 19:02:55,143 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:02:55,143 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:00,146 - INFO - Checking positions and placing orders at 19:03:00.146183
+2024-08-28 19:03:00,199 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:00,199 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:05,202 - INFO - Checking positions and placing orders at 19:03:05.202084
+2024-08-28 19:03:05,261 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:05,261 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:10,264 - INFO - Checking positions and placing orders at 19:03:10.264632
+2024-08-28 19:03:10,328 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:10,329 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:15,331 - INFO - Checking positions and placing orders at 19:03:15.331744
+2024-08-28 19:03:15,396 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:15,396 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:20,398 - INFO - Checking positions and placing orders at 19:03:20.398848
+2024-08-28 19:03:20,466 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:20,466 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:25,468 - INFO - Checking positions and placing orders at 19:03:25.468624
+2024-08-28 19:03:25,534 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:25,534 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:30,538 - INFO - Checking positions and placing orders at 19:03:30.538132
+2024-08-28 19:03:30,603 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:30,603 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:35,606 - INFO - Checking positions and placing orders at 19:03:35.606697
+2024-08-28 19:03:35,661 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:35,661 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:40,664 - INFO - Checking positions and placing orders at 19:03:40.664430
+2024-08-28 19:03:40,730 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:40,730 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:45,738 - INFO - Checking positions and placing orders at 19:03:45.738595
+2024-08-28 19:03:45,796 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:45,796 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:50,798 - INFO - Checking positions and placing orders at 19:03:50.798311
+2024-08-28 19:03:50,861 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:50,861 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:03:55,866 - INFO - Checking positions and placing orders at 19:03:55.866290
+2024-08-28 19:03:55,936 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:03:55,936 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:00,938 - INFO - Checking positions and placing orders at 19:04:00.938687
+2024-08-28 19:04:01,007 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:01,007 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:05,011 - INFO - Checking positions and placing orders at 19:04:05.011049
+2024-08-28 19:04:05,054 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:05,055 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:10,058 - INFO - Checking positions and placing orders at 19:04:10.058882
+2024-08-28 19:04:10,125 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:10,125 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:15,128 - INFO - Checking positions and placing orders at 19:04:15.128669
+2024-08-28 19:04:15,189 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:15,189 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:20,191 - INFO - Checking positions and placing orders at 19:04:20.191170
+2024-08-28 19:04:20,246 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:20,246 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:25,248 - INFO - Checking positions and placing orders at 19:04:25.248269
+2024-08-28 19:04:25,315 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:25,316 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:30,317 - INFO - Checking positions and placing orders at 19:04:30.317674
+2024-08-28 19:04:30,382 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:30,383 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:35,384 - INFO - Checking positions and placing orders at 19:04:35.384769
+2024-08-28 19:04:35,452 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:35,453 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:40,454 - INFO - Checking positions and placing orders at 19:04:40.454989
+2024-08-28 19:04:40,514 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:40,514 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:45,516 - INFO - Checking positions and placing orders at 19:04:45.516836
+2024-08-28 19:04:45,582 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:45,582 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:50,586 - INFO - Checking positions and placing orders at 19:04:50.586385
+2024-08-28 19:04:50,653 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:50,653 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:04:55,657 - INFO - Checking positions and placing orders at 19:04:55.657501
+2024-08-28 19:04:55,716 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:04:55,716 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:00,720 - INFO - Checking positions and placing orders at 19:05:00.720006
+2024-08-28 19:05:00,778 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:00,778 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:05,780 - INFO - Checking positions and placing orders at 19:05:05.780380
+2024-08-28 19:05:05,844 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:05,844 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:10,846 - INFO - Checking positions and placing orders at 19:05:10.846318
+2024-08-28 19:05:10,902 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:10,902 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:15,905 - INFO - Checking positions and placing orders at 19:05:15.905314
+2024-08-28 19:05:16,009 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:16,009 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:20,011 - INFO - Checking positions and placing orders at 19:05:20.011311
+2024-08-28 19:05:20,065 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:20,065 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:25,069 - INFO - Checking positions and placing orders at 19:05:25.069073
+2024-08-28 19:05:25,129 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:25,129 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:30,133 - INFO - Checking positions and placing orders at 19:05:30.133271
+2024-08-28 19:05:30,197 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:30,197 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:35,199 - INFO - Checking positions and placing orders at 19:05:35.199474
+2024-08-28 19:05:35,265 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:35,266 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:40,267 - INFO - Checking positions and placing orders at 19:05:40.267515
+2024-08-28 19:05:40,352 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:40,352 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:45,354 - INFO - Checking positions and placing orders at 19:05:45.354489
+2024-08-28 19:05:45,421 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:45,421 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:50,424 - INFO - Checking positions and placing orders at 19:05:50.424141
+2024-08-28 19:05:50,491 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:50,491 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:05:55,494 - INFO - Checking positions and placing orders at 19:05:55.494975
+2024-08-28 19:05:55,559 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:05:55,559 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:00,563 - INFO - Checking positions and placing orders at 19:06:00.563128
+2024-08-28 19:06:00,623 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:00,623 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:05,625 - INFO - Checking positions and placing orders at 19:06:05.625512
+2024-08-28 19:06:05,687 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:05,687 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:10,690 - INFO - Checking positions and placing orders at 19:06:10.690190
+2024-08-28 19:06:10,754 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:10,755 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:15,757 - INFO - Checking positions and placing orders at 19:06:15.757212
+2024-08-28 19:06:15,823 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:15,823 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:20,825 - INFO - Checking positions and placing orders at 19:06:20.825076
+2024-08-28 19:06:21,031 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:21,031 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:25,033 - INFO - Checking positions and placing orders at 19:06:25.033286
+2024-08-28 19:06:25,089 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:25,089 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:30,092 - INFO - Checking positions and placing orders at 19:06:30.092000
+2024-08-28 19:06:30,151 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:30,151 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:35,154 - INFO - Checking positions and placing orders at 19:06:35.154881
+2024-08-28 19:06:35,220 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:35,220 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:40,222 - INFO - Checking positions and placing orders at 19:06:40.222410
+2024-08-28 19:06:40,303 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:40,303 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:45,305 - INFO - Checking positions and placing orders at 19:06:45.305846
+2024-08-28 19:06:45,367 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:45,367 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:50,370 - INFO - Checking positions and placing orders at 19:06:50.370427
+2024-08-28 19:06:50,424 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:50,424 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:06:55,426 - INFO - Checking positions and placing orders at 19:06:55.426709
+2024-08-28 19:06:55,490 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:06:55,490 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:00,494 - INFO - Checking positions and placing orders at 19:07:00.494275
+2024-08-28 19:07:00,553 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:00,554 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:05,557 - INFO - Checking positions and placing orders at 19:07:05.557014
+2024-08-28 19:07:05,616 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:05,616 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:10,620 - INFO - Checking positions and placing orders at 19:07:10.620034
+2024-08-28 19:07:10,688 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:10,689 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:15,691 - INFO - Checking positions and placing orders at 19:07:15.691420
+2024-08-28 19:07:15,749 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:15,749 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:20,752 - INFO - Checking positions and placing orders at 19:07:20.752725
+2024-08-28 19:07:20,815 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:20,815 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:25,817 - INFO - Checking positions and placing orders at 19:07:25.817997
+2024-08-28 19:07:25,882 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:25,882 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:30,884 - INFO - Checking positions and placing orders at 19:07:30.884704
+2024-08-28 19:07:30,945 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:30,945 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:35,948 - INFO - Checking positions and placing orders at 19:07:35.948771
+2024-08-28 19:07:36,016 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:36,016 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:40,018 - INFO - Checking positions and placing orders at 19:07:40.018103
+2024-08-28 19:07:40,067 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:40,067 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:45,070 - INFO - Checking positions and placing orders at 19:07:45.070449
+2024-08-28 19:07:45,123 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:45,123 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:50,126 - INFO - Checking positions and placing orders at 19:07:50.126846
+2024-08-28 19:07:50,180 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:50,180 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:07:55,183 - INFO - Checking positions and placing orders at 19:07:55.183473
+2024-08-28 19:07:55,246 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:07:55,246 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:00,248 - INFO - Checking positions and placing orders at 19:08:00.248317
+2024-08-28 19:08:00,313 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:00,313 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:05,315 - INFO - Checking positions and placing orders at 19:08:05.315839
+2024-08-28 19:08:05,378 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:05,379 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:10,381 - INFO - Checking positions and placing orders at 19:08:10.381227
+2024-08-28 19:08:10,447 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:10,448 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:15,451 - INFO - Checking positions and placing orders at 19:08:15.451233
+2024-08-28 19:08:15,533 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:15,533 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:20,536 - INFO - Checking positions and placing orders at 19:08:20.536272
+2024-08-28 19:08:20,590 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:20,590 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:25,593 - INFO - Checking positions and placing orders at 19:08:25.593861
+2024-08-28 19:08:25,662 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:25,662 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:30,664 - INFO - Checking positions and placing orders at 19:08:30.664415
+2024-08-28 19:08:30,721 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:30,721 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:35,723 - INFO - Checking positions and placing orders at 19:08:35.723907
+2024-08-28 19:08:35,778 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:35,778 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:40,781 - INFO - Checking positions and placing orders at 19:08:40.781134
+2024-08-28 19:08:40,841 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:40,841 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:45,845 - INFO - Checking positions and placing orders at 19:08:45.845737
+2024-08-28 19:08:45,905 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:45,905 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:50,907 - INFO - Checking positions and placing orders at 19:08:50.907924
+2024-08-28 19:08:50,967 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:50,967 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:08:55,971 - INFO - Checking positions and placing orders at 19:08:55.971500
+2024-08-28 19:08:56,039 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:08:56,039 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:00,042 - INFO - Checking positions and placing orders at 19:09:00.042252
+2024-08-28 19:09:00,086 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:00,086 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:05,089 - INFO - Checking positions and placing orders at 19:09:05.089307
+2024-08-28 19:09:05,148 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:05,148 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:10,150 - INFO - Checking positions and placing orders at 19:09:10.150735
+2024-08-28 19:09:10,207 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:10,207 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:15,210 - INFO - Checking positions and placing orders at 19:09:15.210630
+2024-08-28 19:09:15,267 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:15,267 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:20,269 - INFO - Checking positions and placing orders at 19:09:20.269634
+2024-08-28 19:09:20,332 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:20,332 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:25,334 - INFO - Checking positions and placing orders at 19:09:25.334989
+2024-08-28 19:09:25,396 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:25,396 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:30,408 - INFO - Checking positions and placing orders at 19:09:30.408968
+2024-08-28 19:09:30,480 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:30,480 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:35,483 - INFO - Checking positions and placing orders at 19:09:35.483375
+2024-08-28 19:09:35,543 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:35,543 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:40,545 - INFO - Checking positions and placing orders at 19:09:40.545513
+2024-08-28 19:09:40,603 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:40,604 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:45,607 - INFO - Checking positions and placing orders at 19:09:45.607757
+2024-08-28 19:09:45,678 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:45,678 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:50,681 - INFO - Checking positions and placing orders at 19:09:50.681438
+2024-08-28 19:09:50,744 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:50,744 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:09:55,746 - INFO - Checking positions and placing orders at 19:09:55.746684
+2024-08-28 19:09:55,813 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:09:55,813 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:00,816 - INFO - Checking positions and placing orders at 19:10:00.816167
+2024-08-28 19:10:00,868 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:00,869 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:05,871 - INFO - Checking positions and placing orders at 19:10:05.871761
+2024-08-28 19:10:06,572 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:06,572 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:10,574 - INFO - Checking positions and placing orders at 19:10:10.574154
+2024-08-28 19:10:10,624 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:10,624 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:15,627 - INFO - Checking positions and placing orders at 19:10:15.627944
+2024-08-28 19:10:15,687 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:15,687 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:20,690 - INFO - Checking positions and placing orders at 19:10:20.690525
+2024-08-28 19:10:21,031 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:21,031 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:25,034 - INFO - Checking positions and placing orders at 19:10:25.034970
+2024-08-28 19:10:25,094 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:25,094 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:30,097 - INFO - Checking positions and placing orders at 19:10:30.097458
+2024-08-28 19:10:30,163 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:30,163 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:35,167 - INFO - Checking positions and placing orders at 19:10:35.167561
+2024-08-28 19:10:35,231 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:35,231 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:40,233 - INFO - Checking positions and placing orders at 19:10:40.233943
+2024-08-28 19:10:40,305 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:40,305 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:45,309 - INFO - Checking positions and placing orders at 19:10:45.309248
+2024-08-28 19:10:45,380 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:45,380 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:50,381 - INFO - Checking positions and placing orders at 19:10:50.381510
+2024-08-28 19:10:50,438 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:50,439 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:10:55,441 - INFO - Checking positions and placing orders at 19:10:55.441944
+2024-08-28 19:10:55,512 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:10:55,512 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:00,514 - INFO - Checking positions and placing orders at 19:11:00.514367
+2024-08-28 19:11:00,572 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:00,572 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:05,575 - INFO - Checking positions and placing orders at 19:11:05.575477
+2024-08-28 19:11:05,635 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:05,635 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:10,638 - INFO - Checking positions and placing orders at 19:11:10.638913
+2024-08-28 19:11:10,701 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:10,701 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:15,704 - INFO - Checking positions and placing orders at 19:11:15.704571
+2024-08-28 19:11:15,778 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:15,778 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:20,780 - INFO - Checking positions and placing orders at 19:11:20.780107
+2024-08-28 19:11:20,847 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:20,847 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:25,849 - INFO - Checking positions and placing orders at 19:11:25.849440
+2024-08-28 19:11:25,903 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:25,903 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:30,906 - INFO - Checking positions and placing orders at 19:11:30.906809
+2024-08-28 19:11:30,969 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:30,969 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:35,972 - INFO - Checking positions and placing orders at 19:11:35.972862
+2024-08-28 19:11:36,042 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:36,043 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:40,045 - INFO - Checking positions and placing orders at 19:11:40.045589
+2024-08-28 19:11:40,090 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:40,090 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:45,094 - INFO - Checking positions and placing orders at 19:11:45.094215
+2024-08-28 19:11:45,161 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:45,161 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:50,163 - INFO - Checking positions and placing orders at 19:11:50.163802
+2024-08-28 19:11:50,226 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:50,226 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:11:55,228 - INFO - Checking positions and placing orders at 19:11:55.228652
+2024-08-28 19:11:55,295 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:11:55,295 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:00,297 - INFO - Checking positions and placing orders at 19:12:00.297993
+2024-08-28 19:12:00,370 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:00,370 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:05,375 - INFO - Checking positions and placing orders at 19:12:05.375982
+2024-08-28 19:12:05,431 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:05,431 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:10,432 - INFO - Checking positions and placing orders at 19:12:10.432932
+2024-08-28 19:12:10,536 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:10,536 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:15,538 - INFO - Checking positions and placing orders at 19:12:15.538693
+2024-08-28 19:12:15,613 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:15,613 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:20,615 - INFO - Checking positions and placing orders at 19:12:20.615063
+2024-08-28 19:12:20,680 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:20,680 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:25,682 - INFO - Checking positions and placing orders at 19:12:25.682098
+2024-08-28 19:12:25,739 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:25,739 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:30,741 - INFO - Checking positions and placing orders at 19:12:30.741766
+2024-08-28 19:12:30,825 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:30,825 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:35,827 - INFO - Checking positions and placing orders at 19:12:35.827388
+2024-08-28 19:12:35,885 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:35,885 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:40,887 - INFO - Checking positions and placing orders at 19:12:40.887607
+2024-08-28 19:12:40,939 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:40,940 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:45,943 - INFO - Checking positions and placing orders at 19:12:45.943188
+2024-08-28 19:12:46,005 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:46,005 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:50,008 - INFO - Checking positions and placing orders at 19:12:50.008118
+2024-08-28 19:12:50,056 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:50,056 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:12:55,061 - INFO - Checking positions and placing orders at 19:12:55.061369
+2024-08-28 19:12:55,120 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:12:55,120 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:00,124 - INFO - Checking positions and placing orders at 19:13:00.124067
+2024-08-28 19:13:00,187 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:00,187 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:05,189 - INFO - Checking positions and placing orders at 19:13:05.189800
+2024-08-28 19:13:05,315 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:05,315 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:10,318 - INFO - Checking positions and placing orders at 19:13:10.318050
+2024-08-28 19:13:10,399 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:10,399 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:15,401 - INFO - Checking positions and placing orders at 19:13:15.401990
+2024-08-28 19:13:15,459 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:15,459 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:20,462 - INFO - Checking positions and placing orders at 19:13:20.462960
+2024-08-28 19:13:20,517 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:20,517 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:25,520 - INFO - Checking positions and placing orders at 19:13:25.520248
+2024-08-28 19:13:25,585 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:25,585 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:30,589 - INFO - Checking positions and placing orders at 19:13:30.589112
+2024-08-28 19:13:30,646 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:30,646 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:35,648 - INFO - Checking positions and placing orders at 19:13:35.648562
+2024-08-28 19:13:35,706 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:35,706 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:40,709 - INFO - Checking positions and placing orders at 19:13:40.709477
+2024-08-28 19:13:40,771 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:40,771 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:45,773 - INFO - Checking positions and placing orders at 19:13:45.773031
+2024-08-28 19:13:45,830 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:45,830 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:50,833 - INFO - Checking positions and placing orders at 19:13:50.833708
+2024-08-28 19:13:50,889 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:50,890 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:13:55,893 - INFO - Checking positions and placing orders at 19:13:55.893995
+2024-08-28 19:13:55,960 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:13:55,960 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:00,962 - INFO - Checking positions and placing orders at 19:14:00.962572
+2024-08-28 19:14:01,023 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:01,023 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:05,026 - INFO - Checking positions and placing orders at 19:14:05.026384
+2024-08-28 19:14:05,081 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:05,081 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:10,084 - INFO - Checking positions and placing orders at 19:14:10.084784
+2024-08-28 19:14:10,148 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:10,148 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:15,152 - INFO - Checking positions and placing orders at 19:14:15.152033
+2024-08-28 19:14:15,208 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:15,208 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:20,210 - INFO - Checking positions and placing orders at 19:14:20.210868
+2024-08-28 19:14:20,274 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:20,274 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:25,276 - INFO - Checking positions and placing orders at 19:14:25.276222
+2024-08-28 19:14:25,334 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:25,334 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:30,336 - INFO - Checking positions and placing orders at 19:14:30.336861
+2024-08-28 19:14:30,393 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:30,394 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:35,396 - INFO - Checking positions and placing orders at 19:14:35.396692
+2024-08-28 19:14:35,465 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:35,465 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:40,468 - INFO - Checking positions and placing orders at 19:14:40.468201
+2024-08-28 19:14:40,524 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:40,524 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:45,526 - INFO - Checking positions and placing orders at 19:14:45.526756
+2024-08-28 19:14:45,586 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:45,586 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:50,591 - INFO - Checking positions and placing orders at 19:14:50.591451
+2024-08-28 19:14:50,671 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:50,671 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:14:55,672 - INFO - Checking positions and placing orders at 19:14:55.672913
+2024-08-28 19:14:55,729 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:14:55,730 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:00,735 - INFO - Checking positions and placing orders at 19:15:00.735414
+2024-08-28 19:15:00,799 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:00,799 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:05,801 - INFO - Checking positions and placing orders at 19:15:05.801130
+2024-08-28 19:15:05,863 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:05,863 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:10,865 - INFO - Checking positions and placing orders at 19:15:10.865872
+2024-08-28 19:15:10,932 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:10,933 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:15,936 - INFO - Checking positions and placing orders at 19:15:15.936035
+2024-08-28 19:15:16,142 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:16,143 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:20,145 - INFO - Checking positions and placing orders at 19:15:20.145775
+2024-08-28 19:15:20,200 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:20,201 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:25,203 - INFO - Checking positions and placing orders at 19:15:25.203720
+2024-08-28 19:15:25,262 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:25,263 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:30,264 - INFO - Checking positions and placing orders at 19:15:30.264415
+2024-08-28 19:15:30,326 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:30,326 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:35,328 - INFO - Checking positions and placing orders at 19:15:35.328722
+2024-08-28 19:15:35,405 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:35,405 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:40,408 - INFO - Checking positions and placing orders at 19:15:40.408197
+2024-08-28 19:15:40,464 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:40,464 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:45,467 - INFO - Checking positions and placing orders at 19:15:45.467421
+2024-08-28 19:15:45,524 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:45,524 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:50,539 - INFO - Checking positions and placing orders at 19:15:50.539803
+2024-08-28 19:15:50,605 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:50,605 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:15:55,608 - INFO - Checking positions and placing orders at 19:15:55.608755
+2024-08-28 19:15:55,675 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:15:55,676 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:00,679 - INFO - Checking positions and placing orders at 19:16:00.679444
+2024-08-28 19:16:00,742 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:00,742 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:00,905 - INFO - Placing orders for 28-08-2024 07:00 PM at 19:16:00.905164
+2024-08-28 19:16:00,915 - INFO - Extracted stock list: []
+2024-08-28 19:16:00,915 - INFO - No stocks found for the given time. Clearing previous stock lists.
+2024-08-28 19:16:00,915 - INFO - place_orders function completed.
+2024-08-28 19:16:05,745 - INFO - Checking positions and placing orders at 19:16:05.745966
+2024-08-28 19:16:05,802 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:05,802 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:10,804 - INFO - Checking positions and placing orders at 19:16:10.804282
+2024-08-28 19:16:10,875 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:10,875 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:15,876 - INFO - Checking positions and placing orders at 19:16:15.876764
+2024-08-28 19:16:15,940 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:15,940 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:20,941 - INFO - Checking positions and placing orders at 19:16:20.941781
+2024-08-28 19:16:21,153 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:21,153 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:25,158 - INFO - Checking positions and placing orders at 19:16:25.157313
+2024-08-28 19:16:25,206 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:25,206 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:30,208 - INFO - Checking positions and placing orders at 19:16:30.208580
+2024-08-28 19:16:30,273 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:30,274 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:35,276 - INFO - Checking positions and placing orders at 19:16:35.276244
+2024-08-28 19:16:35,338 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:35,338 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:40,341 - INFO - Checking positions and placing orders at 19:16:40.341182
+2024-08-28 19:16:40,399 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:40,399 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:45,401 - INFO - Checking positions and placing orders at 19:16:45.401533
+2024-08-28 19:16:45,462 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:45,462 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:50,465 - INFO - Checking positions and placing orders at 19:16:50.465989
+2024-08-28 19:16:50,538 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:50,538 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:16:55,542 - INFO - Checking positions and placing orders at 19:16:55.542744
+2024-08-28 19:16:55,613 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:16:55,613 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:00,616 - INFO - Checking positions and placing orders at 19:17:00.616549
+2024-08-28 19:17:00,671 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:00,671 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:05,676 - INFO - Checking positions and placing orders at 19:17:05.676201
+2024-08-28 19:17:05,733 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:05,733 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:10,736 - INFO - Checking positions and placing orders at 19:17:10.735816
+2024-08-28 19:17:10,806 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:10,806 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:15,808 - INFO - Checking positions and placing orders at 19:17:15.808494
+2024-08-28 19:17:15,892 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:15,892 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:20,894 - INFO - Checking positions and placing orders at 19:17:20.894989
+2024-08-28 19:17:20,941 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:20,942 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:25,945 - INFO - Checking positions and placing orders at 19:17:25.945363
+2024-08-28 19:17:26,006 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:26,006 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:30,007 - INFO - Checking positions and placing orders at 19:17:30.007615
+2024-08-28 19:17:30,052 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:30,052 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:35,055 - INFO - Checking positions and placing orders at 19:17:35.054613
+2024-08-28 19:17:35,114 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:35,114 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:40,117 - INFO - Checking positions and placing orders at 19:17:40.117332
+2024-08-28 19:17:40,165 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:40,165 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:45,171 - INFO - Checking positions and placing orders at 19:17:45.170443
+2024-08-28 19:17:45,215 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:45,216 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:50,219 - INFO - Checking positions and placing orders at 19:17:50.219309
+2024-08-28 19:17:50,286 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:50,286 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:17:55,288 - INFO - Checking positions and placing orders at 19:17:55.288646
+2024-08-28 19:17:55,346 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:17:55,346 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:00,351 - INFO - Checking positions and placing orders at 19:18:00.351652
+2024-08-28 19:18:00,414 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:00,414 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:05,418 - INFO - Checking positions and placing orders at 19:18:05.418180
+2024-08-28 19:18:05,485 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:05,485 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:10,490 - INFO - Checking positions and placing orders at 19:18:10.490232
+2024-08-28 19:18:10,545 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:10,545 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:15,550 - INFO - Checking positions and placing orders at 19:18:15.550215
+2024-08-28 19:18:15,611 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:15,611 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:20,622 - INFO - Checking positions and placing orders at 19:18:20.622005
+2024-08-28 19:18:20,690 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:20,690 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:25,693 - INFO - Checking positions and placing orders at 19:18:25.693383
+2024-08-28 19:18:25,752 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:25,752 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:30,753 - INFO - Checking positions and placing orders at 19:18:30.753959
+2024-08-28 19:18:30,807 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:30,807 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:35,809 - INFO - Checking positions and placing orders at 19:18:35.809964
+2024-08-28 19:18:35,873 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:35,873 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:40,876 - INFO - Checking positions and placing orders at 19:18:40.876008
+2024-08-28 19:18:40,929 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:40,930 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:45,933 - INFO - Checking positions and placing orders at 19:18:45.933970
+2024-08-28 19:18:45,995 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:45,995 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:50,999 - INFO - Checking positions and placing orders at 19:18:50.999212
+2024-08-28 19:18:51,066 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:51,066 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:18:55,069 - INFO - Checking positions and placing orders at 19:18:55.069821
+2024-08-28 19:18:55,116 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:18:55,116 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:00,119 - INFO - Checking positions and placing orders at 19:19:00.119120
+2024-08-28 19:19:00,172 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:00,172 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:05,174 - INFO - Checking positions and placing orders at 19:19:05.174784
+2024-08-28 19:19:05,232 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:05,232 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:10,590 - INFO - Checking positions and placing orders at 19:19:10.590654
+2024-08-28 19:19:10,934 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:10,935 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:15,941 - INFO - Checking positions and placing orders at 19:19:15.941330
+2024-08-28 19:19:16,581 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:16,581 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:20,584 - INFO - Checking positions and placing orders at 19:19:20.584560
+2024-08-28 19:19:20,644 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:20,644 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:25,649 - INFO - Checking positions and placing orders at 19:19:25.649268
+2024-08-28 19:19:25,739 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:25,739 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:30,741 - INFO - Checking positions and placing orders at 19:19:30.741857
+2024-08-28 19:19:30,810 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:30,810 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:35,815 - INFO - Checking positions and placing orders at 19:19:35.815695
+2024-08-28 19:19:35,895 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:35,895 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:40,900 - INFO - Checking positions and placing orders at 19:19:40.900911
+2024-08-28 19:19:40,978 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:40,979 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:45,982 - INFO - Checking positions and placing orders at 19:19:45.982756
+2024-08-28 19:19:46,061 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:46,061 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:50,065 - INFO - Checking positions and placing orders at 19:19:50.065037
+2024-08-28 19:19:50,138 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:50,139 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:19:55,143 - INFO - Checking positions and placing orders at 19:19:55.143056
+2024-08-28 19:19:55,213 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:19:55,213 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:00,218 - INFO - Checking positions and placing orders at 19:20:00.218429
+2024-08-28 19:20:00,288 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:00,289 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:05,292 - INFO - Checking positions and placing orders at 19:20:05.292447
+2024-08-28 19:20:05,371 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:05,372 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:10,375 - INFO - Checking positions and placing orders at 19:20:10.375258
+2024-08-28 19:20:10,441 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:10,441 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:15,445 - INFO - Checking positions and placing orders at 19:20:15.445648
+2024-08-28 19:20:15,518 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:15,519 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:20,523 - INFO - Checking positions and placing orders at 19:20:20.523658
+2024-08-28 19:20:20,610 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:20,611 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:25,616 - INFO - Checking positions and placing orders at 19:20:25.616201
+2024-08-28 19:20:25,674 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:25,674 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:30,677 - INFO - Checking positions and placing orders at 19:20:30.677491
+2024-08-28 19:20:30,758 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:30,758 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:35,761 - INFO - Checking positions and placing orders at 19:20:35.761015
+2024-08-28 19:20:35,864 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:35,865 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:40,868 - INFO - Checking positions and placing orders at 19:20:40.868970
+2024-08-28 19:20:40,979 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:40,980 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:45,984 - INFO - Checking positions and placing orders at 19:20:45.984069
+2024-08-28 19:20:46,054 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:46,055 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:50,059 - INFO - Checking positions and placing orders at 19:20:50.059941
+2024-08-28 19:20:50,134 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:50,134 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:20:55,139 - INFO - Checking positions and placing orders at 19:20:55.139413
+2024-08-28 19:20:55,213 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:20:55,213 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:00,217 - INFO - Checking positions and placing orders at 19:21:00.217197
+2024-08-28 19:21:00,283 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:00,283 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:05,286 - INFO - Checking positions and placing orders at 19:21:05.286770
+2024-08-28 19:21:05,371 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:05,371 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:10,375 - INFO - Checking positions and placing orders at 19:21:10.375739
+2024-08-28 19:21:10,448 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:10,448 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:15,453 - INFO - Checking positions and placing orders at 19:21:15.453531
+2024-08-28 19:21:15,525 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:15,526 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:20,530 - INFO - Checking positions and placing orders at 19:21:20.530482
+2024-08-28 19:21:20,628 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:20,628 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:25,633 - INFO - Checking positions and placing orders at 19:21:25.633371
+2024-08-28 19:21:25,705 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:25,706 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:30,711 - INFO - Checking positions and placing orders at 19:21:30.711251
+2024-08-28 19:21:30,782 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:30,782 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:35,786 - INFO - Checking positions and placing orders at 19:21:35.786785
+2024-08-28 19:21:35,865 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:35,866 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:40,871 - INFO - Checking positions and placing orders at 19:21:40.871039
+2024-08-28 19:21:40,937 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:40,937 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:45,942 - INFO - Checking positions and placing orders at 19:21:45.942904
+2024-08-28 19:21:46,015 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:46,015 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:50,019 - INFO - Checking positions and placing orders at 19:21:50.019156
+2024-08-28 19:21:50,092 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:50,093 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:21:55,098 - INFO - Checking positions and placing orders at 19:21:55.098271
+2024-08-28 19:21:55,176 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:21:55,176 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:00,180 - INFO - Checking positions and placing orders at 19:22:00.180821
+2024-08-28 19:22:00,253 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:00,253 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:05,256 - INFO - Checking positions and placing orders at 19:22:05.256134
+2024-08-28 19:22:05,346 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:05,346 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:10,350 - INFO - Checking positions and placing orders at 19:22:10.350620
+2024-08-28 19:22:10,420 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:10,420 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:15,425 - INFO - Checking positions and placing orders at 19:22:15.425009
+2024-08-28 19:22:15,491 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:15,491 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:20,496 - INFO - Checking positions and placing orders at 19:22:20.496097
+2024-08-28 19:22:20,582 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:20,582 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:25,587 - INFO - Checking positions and placing orders at 19:22:25.587617
+2024-08-28 19:22:25,657 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:25,658 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:30,662 - INFO - Checking positions and placing orders at 19:22:30.662239
+2024-08-28 19:22:30,729 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:30,730 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:35,734 - INFO - Checking positions and placing orders at 19:22:35.734916
+2024-08-28 19:22:35,825 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:35,826 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:40,829 - INFO - Checking positions and placing orders at 19:22:40.829692
+2024-08-28 19:22:40,899 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:40,900 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:45,904 - INFO - Checking positions and placing orders at 19:22:45.904376
+2024-08-28 19:22:45,981 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:45,982 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:50,986 - INFO - Checking positions and placing orders at 19:22:50.986394
+2024-08-28 19:22:51,069 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:51,069 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:22:55,074 - INFO - Checking positions and placing orders at 19:22:55.074145
+2024-08-28 19:22:55,144 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:22:55,144 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:23:00,148 - INFO - Checking positions and placing orders at 19:23:00.148943
+2024-08-28 19:23:00,249 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:23:00,249 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:23:05,253 - INFO - Checking positions and placing orders at 19:23:05.253670
+2024-08-28 19:23:05,333 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:23:05,334 - INFO - place_buy_orders_based_on_positions function completed.
+2024-08-28 19:23:10,338 - INFO - Checking positions and placing orders at 19:23:10.338517
+2024-08-28 19:23:10,590 - INFO - No stocks met the conditions for buying.
+2024-08-28 19:23:10,590 - INFO - place_buy_orders_based_on_positions function completed.
