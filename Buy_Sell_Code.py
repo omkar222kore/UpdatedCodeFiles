@@ -124,21 +124,30 @@ def place_buy_orders_based_on_positions():
     stocks_to_buy = []  # List to keep track of stocks meeting conditions
     positions = api.get_positions()
     df = pd.DataFrame(positions)
+    
     if 'tsym' not in df.columns or 'rpnl' not in df.columns or 'daysellqty' not in df.columns:
         logging.error("No positions data found or data is not in the expected format.")
         return
- 
+
     stock_names = df['tsym'].dropna().tolist()
     rpnl_values = pd.to_numeric(df['urmtom'], errors='coerce').fillna(float('nan')).tolist()
     quantities = pd.to_numeric(df['daysellqty'], errors='coerce').fillna(0).astype(int).tolist()
+    
+    mtm = 0
+    pnl = 0
+    for i in positions:
+        mtm += float(i['urmtom'])
+        pnl += float(i['rpnl'])
+    day_m2m = mtm + pnl
+    print(f'{day_m2m} is your Daily MTM')
 
-    for i in range(len(stock_names)):
-        print(stock_names[i] )
-        print(rpnl_values[i])
-        # Check the PnL conditions and make sure the stock isn't already processed
-        if rpnl_values[i] is not None and (rpnl_values[i] <= -40 or rpnl_values[i] >= 79) and stock_names[i] not in processed_stocks:
-            print(f"Placing order for: {stock_names[i]}")
-            try:
+    # Check if day_m2m is within the critical range to place orders for all stocks
+    if day_m2m <= -110 or day_m2m >= 160:
+        for i in range(len(stock_names)):
+            if stock_names[i] in processed_stocks:
+                continue  # Skip stocks that have already been processed
+            
+            try:    
                 ret = api.place_order(
                     buy_or_sell='B',
                     product_type='I',
@@ -150,18 +159,44 @@ def place_buy_orders_based_on_positions():
                     retention='DAY',
                     remarks='my_order_001'
                 )
-                # Add to processed_stocks only if the conditions are met and the order is placed
+                # Add to processed_stocks only if the order is successfully placed
                 processed_stocks.add(stock_names[i])
-                stocks_to_buy.append(stock_names[i])  # Add to the list of stocks that met the condition
+                stocks_to_buy.append(stock_names[i])
                 logging.info(f"Buy order placed for {stock_names[i]}. Quantity: {quantities[i]}, PnL: {rpnl_values[i]}")
             except Exception as e:
                 logging.error(f"Error placing buy order for {stock_names[i]}: {e}")
- 
+    
+    # If day_m2m didn't trigger bulk orders, check individual stock conditions
+    else:
+        for i in range(len(stock_names)):
+            if stock_names[i] in processed_stocks:
+                continue  # Skip stocks that have already been processed
+
+            # Check the PnL conditions
+            if rpnl_values[i] is not None and (rpnl_values[i] <= -40 or rpnl_values[i] >= 79):
+                try:
+                    ret = api.place_order(
+                        buy_or_sell='B',
+                        product_type='I',
+                        exchange='NSE',
+                        tradingsymbol=stock_names[i],
+                        quantity=quantities[i],
+                        discloseqty=0,
+                        price_type='MKT',
+                        retention='DAY',
+                        remarks='my_order_001'
+                    )
+                    processed_stocks.add(stock_names[i])
+                    stocks_to_buy.append(stock_names[i])
+                    logging.info(f"Buy order placed for {stock_names[i]}. Quantity: {quantities[i]}, PnL: {rpnl_values[i]}")
+                except Exception as e:
+                    logging.error(f"Error placing buy order for {stock_names[i]}: {e}")
+
     if not stocks_to_buy:
         logging.info("No stocks met the conditions for buying.")
     else:
         logging.info(f"Stocks meeting buy conditions: {', '.join(stocks_to_buy)}")
- 
+
     logging.info("place_buy_orders_based_on_positions function completed.")
 
 def round_down_to_nearest_15_minutes(dt):
