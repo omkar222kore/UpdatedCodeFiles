@@ -13,7 +13,7 @@ class ShoonyaApiPy(NorenApi):
  
 # Configuration Constants
 USER = 'FA74468'
-PWD = 'GURU222kore$'
+PWD = 'GURU222kore!'
 TOKEN = 'XT2L66VT73Q22P33BNCHKN6WA2Q37KK6'
 VC = 'FA74468_U'
 APP_KEY = 'c98e82a190da8181c80fb94cf0a31144'
