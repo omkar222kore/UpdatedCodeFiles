@@ -241,9 +241,9 @@ def schedule_place_buy_orders_based_on_positions(start_time, end_time):
             time.sleep(1)  # Wait until the start time is reached
  
 if __name__ == "__main__":
-    place_orders_start_time = dt_datetime.strptime("10:15", "%H:%M").time()
+    place_orders_start_time = dt_datetime.strptime("9:15", "%H:%M").time()
     place_orders_end_time = dt_datetime.strptime("11:46", "%H:%M").time()
-    check_positions_start_time = dt_datetime.strptime("10:18", "%H:%M").time()
+    check_positions_start_time = dt_datetime.strptime("9:18", "%H:%M").time()
     check_positions_end_time = dt_datetime.strptime("15:10", "%H:%M").time()
  
     # Start place_orders function on a separate thread
