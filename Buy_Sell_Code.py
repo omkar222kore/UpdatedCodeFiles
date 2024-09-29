@@ -236,7 +236,7 @@ def schedule_place_buy_orders_based_on_positions(start_time, end_time):
             logging.info(f"Checking positions and placing orders at {now_time.time()}")
             place_buy_orders_based_on_positions()
  
-            next_call_time += timedelta(seconds=5)  # Schedule next call after 5 seconds
+            next_call_time += timedelta(seconds=180)  # Schedule next call after 5 seconds
         else:
             time.sleep(1)  # Wait until the start time is reached
  
